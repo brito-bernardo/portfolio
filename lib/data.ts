@@ -2,6 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
+import {MdTravelExplore} from "react-icons/md"
+import {LiaUniversitySolid} from "react-icons/lia"
+import {BsMicrosoftTeams} from "react-icons/bs"
 import medicalsystemImg from "@/public/Medical Management System.png"
 import leetcodeImg from "@/public/LeetCode.png"
 import applicationImg from "@/public/Application.png"
@@ -56,7 +59,7 @@ export const experiencesData = [
     location: "Whitefish, United States",
     description:
       "Attendee of Work and Travel program offered by US government.",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(MdTravelExplore),
     date: "2021",
   },
   {
@@ -64,7 +67,7 @@ export const experiencesData = [
     location: "Whitefish, United States",
     description:
       "Attendee again of Work and Travel program offered by US government.",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(MdTravelExplore),
     date: "2022",
   },
   {
@@ -72,7 +75,7 @@ export const experiencesData = [
     location: "Porto, Portugal",
     description:
       "Attended to Sandwich undergradute program to study Computer Engineering",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(LiaUniversitySolid),
     date: "2023-2024",
   },
   {
@@ -88,7 +91,7 @@ export const experiencesData = [
     location: "Remote",
     description:
       "Voluteering as global group of campus leaders who eager to help fellow students and create a tech community. ",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(BsMicrosoftTeams),
     date: "2023-present",
   },
   
