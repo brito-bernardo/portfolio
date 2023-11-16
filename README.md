@@ -9,4 +9,4 @@ Hello! I'm Bernardo Brito, and this is my online portfolio. Here, you'll find an
 
 ---
 
-Feel free to customize each section with your personal information and experiences. The goal is to present yourself professionally and engagingly to potential employers or clients who visit your portfolio.
+Feel free to contact me
